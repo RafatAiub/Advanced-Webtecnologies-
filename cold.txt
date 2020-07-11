@@ -1,0 +1,6 @@
+cold(){
+    if(add_ice==1)
+       cold coffee;
+    else
+       hot;
+}
